@@ -3,14 +3,10 @@ package net.apirest.springboot.model;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-import java.util.Set;
 import javax.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-
-import java.util.stream.Stream;
-import java.util.stream.Collectors;  
 
 
 
